@@ -1,4 +1,4 @@
-These excercise is a part of E-book on : "Pyhton & Arduino with GUI creation"
+These excercise is a part of E-book on : "Arduino + Python Programmming for Robots"
 Link to Book: To be updated
 
 Description: 
