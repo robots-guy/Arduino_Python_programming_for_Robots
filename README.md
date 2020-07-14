@@ -8,7 +8,7 @@ GUI creation techniques for various Hardware interfaces. All exercises are equip
 Use of Codes:
 1. Use the Arduino codes (.ino files) to upload to your favourite arduino board / Other supported boards from Arduino IDE. Make sure to modify the PINS assignment according to your hardware connections. 
 2. Run the Pyhton codes (.py file) in your Spyder / Jupiter IDE on your desktop/notebook and modiy the suitbale COM port in the beginning of codes.
-3. If there is any importing of pictures involved in your exercises, make sure to give the correct file path in the Pyhton codes. 
+3. If there is any importing of pictures involved in your exercises, make sure to give the correct file path in the Python codes. 
 
 
 Recommended Python version: 3.7 and above
