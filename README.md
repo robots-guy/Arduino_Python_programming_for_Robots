@@ -2,7 +2,7 @@ These excercise is a part of E-book on : "Arduino + Python Programmming for Robo
 Link to Book: To be updated
 
 Description: 
-This books takes you through fundementals of Design, User interface and Programming. Then it introduces you to Pyhton and Arduino fundamentals following with excersices on tkinter 
+This books takes you through fundementals of Design, User interface and Programming. Then it introduces you to Python and Arduino fundamentals following with excersices on tkinter 
 GUI creation techniques for various Hardware interfaces. All exercises are equipped with Codes for Arduino and Pyhton that you will in this repository. 
 
 Use of Codes:
