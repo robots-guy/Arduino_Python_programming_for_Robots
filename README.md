@@ -1,4 +1,4 @@
-These excercise are a part of E-book on : "Arduino + Python Programmming for Robots"
+These excercises are a part of E-book on : "Arduino + Python Programming for Robots"
 Link to Book: To be updated
 
 Description: 
