@@ -57,7 +57,7 @@ f1.configure(background="white")
 
 '''
 Declare the images 
-Cgange the file path accordingly as per your folder 
+Change the file path accordingly as per your folder 
 var =  ImageTk.PhotoImage(Image.open("<---your file path--->"))
 '''
 stopped = ImageTk.PhotoImage(Image.open("C:/Users/User/Documents/scripts/stop.png"))
