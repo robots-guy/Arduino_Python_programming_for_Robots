@@ -1,9 +1,9 @@
 These excercises are a part of E-book on : "Arduino + Python Programming for Robots"
-Link to Book: To be updated
+Link to book: https://www.amazon.com/dp/B08CY735W9/
 
 Description: 
 This books takes you through fundementals of Design, User interface and Programming. Then it introduces you to Python and Arduino fundamentals following with excersices on tkinter 
-GUI creation techniques for various Hardware interfaces. All exercises are equipped with Codes for Arduino and Pyhton that you will in this repository. 
+GUI creation techniques for various Hardware interfaces. All exercises are equipped with Codes for Arduino and Python that you will find in this repository. 
 
 Use of Codes:
 1. Use the Arduino codes (.ino files) to upload to your favourite arduino board / Other supported boards from Arduino IDE. Make sure to modify the PINS assignment according to your hardware connections. 
